@@ -1,9 +1,12 @@
+// Check Prime Number Complexity O(sqrt(n))
+
 #include<iostream>
 #include <math.h>
 
 using namespace std;
+
 int main(){
-    int number,i, sqrtNumber;
+    int number, i, sqrtNumber;
     cout<<"Enter the number: ";
     cin>>number;
 
